@@ -5,3 +5,10 @@ flask
 requests
 python-dotenv
 chromadb
+anthropic
+langchain
+langchain-openai
+langchain-anthropic
+beautifulsoup4
+pypdf
+langgraph
